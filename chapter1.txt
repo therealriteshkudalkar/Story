@@ -1,0 +1,1 @@
+This is chapter 1. I love coding and this is my first version control file.
